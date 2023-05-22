@@ -1,0 +1,537 @@
+Plate information 
+Plate,Repeat,Barcode,Measurement date,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,
+1,1,="",15/02/2023 3:24:50 p.m.,25.05,25.05,29,29.1,
+
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas C,0,437,40,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+
+
+Well,Calc1:Average within well,
+A01,0.036250,
+A01,,
+A01,,
+A01,,
+A02,0.040000,
+A02,,
+A02,,
+A02,,
+A03,0.035500,
+A03,,
+A03,,
+A03,,
+A04,0.038250,
+A04,,
+A04,,
+A04,,
+A05,0.041750,
+A05,,
+A05,,
+A05,,
+A06,0.036000,
+A06,,
+A06,,
+A06,,
+A07,0.040000,
+A07,,
+A07,,
+A07,,
+A08,0.039750,
+A08,,
+A08,,
+A08,,
+A09,0.035750,
+A09,,
+A09,,
+A09,,
+A10,0.036250,
+A10,,
+A10,,
+A10,,
+A11,0.034750,
+A11,,
+A11,,
+A11,,
+A12,0.034250,
+A12,,
+A12,,
+A12,,
+B01,0.036500,
+B01,,
+B01,,
+B01,,
+B02,0.91650,
+B02,,
+B02,,
+B02,,
+B03,0.77425,
+B03,,
+B03,,
+B03,,
+B04,0.92225,
+B04,,
+B04,,
+B04,,
+B05,0.071500,
+B05,,
+B05,,
+B05,,
+B06,0.062000,
+B06,,
+B06,,
+B06,,
+B07,0.061250,
+B07,,
+B07,,
+B07,,
+B08,0.20600,
+B08,,
+B08,,
+B08,,
+B09,0.20075,
+B09,,
+B09,,
+B09,,
+B10,0.16600,
+B10,,
+B10,,
+B10,,
+B11,0.13950,
+B11,,
+B11,,
+B11,,
+B12,0.039250,
+B12,,
+B12,,
+B12,,
+C01,0.044000,
+C01,,
+C01,,
+C01,,
+C02,0.10775,
+C02,,
+C02,,
+C02,,
+C03,0.11900,
+C03,,
+C03,,
+C03,,
+C04,0.094750,
+C04,,
+C04,,
+C04,,
+C05,0.81950,
+C05,,
+C05,,
+C05,,
+C06,0.29250,
+C06,,
+C06,,
+C06,,
+C07,0.10625,
+C07,,
+C07,,
+C07,,
+C08,0.24000,
+C08,,
+C08,,
+C08,,
+C09,0.16925,
+C09,,
+C09,,
+C09,,
+C10,0.077750,
+C10,,
+C10,,
+C10,,
+C11,0.079500,
+C11,,
+C11,,
+C11,,
+C12,0.037750,
+C12,,
+C12,,
+C12,,
+D01,0.041000,
+D01,,
+D01,,
+D01,,
+D02,0.084000,
+D02,,
+D02,,
+D02,,
+D03,0.088750,
+D03,,
+D03,,
+D03,,
+D04,0.080250,
+D04,,
+D04,,
+D04,,
+D05,0.079000,
+D05,,
+D05,,
+D05,,
+D06,0.092500,
+D06,,
+D06,,
+D06,,
+D07,0.084250,
+D07,,
+D07,,
+D07,,
+D08,0.10450,
+D08,,
+D08,,
+D08,,
+D09,0.087000,
+D09,,
+D09,,
+D09,,
+D10,0.20975,
+D10,,
+D10,,
+D10,,
+D11,0.071000,
+D11,,
+D11,,
+D11,,
+D12,0.038500,
+D12,,
+D12,,
+D12,,
+E01,0.037750,
+E01,,
+E01,,
+E01,,
+E02,0.87150,
+E02,,
+E02,,
+E02,,
+E03,0.079250,
+E03,,
+E03,,
+E03,,
+E04,0.30200,
+E04,,
+E04,,
+E04,,
+E05,0.76800,
+E05,,
+E05,,
+E05,,
+E06,0.060250,
+E06,,
+E06,,
+E06,,
+E07,0.16350,
+E07,,
+E07,,
+E07,,
+E08,0.73050,
+E08,,
+E08,,
+E08,,
+E09,0.093500,
+E09,,
+E09,,
+E09,,
+E10,0.090500,
+E10,,
+E10,,
+E10,,
+E11,0.71350,
+E11,,
+E11,,
+E11,,
+E12,0.042000,
+E12,,
+E12,,
+E12,,
+F01,0.038750,
+F01,,
+F01,,
+F01,,
+F02,0.89825,
+F02,,
+F02,,
+F02,,
+F03,0.11600,
+F03,,
+F03,,
+F03,,
+F04,0.12025,
+F04,,
+F04,,
+F04,,
+F05,0.93525,
+F05,,
+F05,,
+F05,,
+F06,0.70850,
+F06,,
+F06,,
+F06,,
+F07,0.45150,
+F07,,
+F07,,
+F07,,
+F08,0.25150,
+F08,,
+F08,,
+F08,,
+F09,0.58725,
+F09,,
+F09,,
+F09,,
+F10,0.29125,
+F10,,
+F10,,
+F10,,
+F11,0.087250,
+F11,,
+F11,,
+F11,,
+F12,0.041500,
+F12,,
+F12,,
+F12,,
+G01,0.040250,
+G01,,
+G01,,
+G01,,
+G02,0.38100,
+G02,,
+G02,,
+G02,,
+G03,0.47975,
+G03,,
+G03,,
+G03,,
+G04,0.33950,
+G04,,
+G04,,
+G04,,
+G05,0.56400,
+G05,,
+G05,,
+G05,,
+G06,0.30050,
+G06,,
+G06,,
+G06,,
+G07,0.68375,
+G07,,
+G07,,
+G07,,
+G08,0.57975,
+G08,,
+G08,,
+G08,,
+G09,0.036250,
+G09,,
+G09,,
+G09,,
+G10,0.33500,
+G10,,
+G10,,
+G10,,
+G11,0.074500,
+G11,,
+G11,,
+G11,,
+G12,0.037500,
+G12,,
+G12,,
+G12,,
+H01,0.038500,
+H01,,
+H01,,
+H01,,
+H02,0.039500,
+H02,,
+H02,,
+H02,,
+H03,0.041250,
+H03,,
+H03,,
+H03,,
+H04,0.039000,
+H04,,
+H04,,
+H04,,
+H05,0.039500,
+H05,,
+H05,,
+H05,,
+H06,0.038750,
+H06,,
+H06,,
+H06,,
+H07,0.036750,
+H07,,
+H07,,
+H07,,
+H08,0.037250,
+H08,,
+H08,,
+H08,,
+H09,0.034750,
+H09,,
+H09,,
+H09,,
+H10,0.036750,
+H10,,
+H10,,
+H10,,
+H11,0.039000,
+H11,,
+H11,,
+H11,,
+H12,0.040000,
+H12,,
+H12,,
+H12,,
+
+Basic assay information 
+Assay ID: ,,,,1270
+Assay Started: ,,,,15/02/2023 3:23:10 p.m.
+Assay Finished: ,,,,15/02/2023 3:25:01 p.m.
+Assay Exported: ,,,,15/02/2023 3:25:29 p.m.
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100146
+Protocol Name: ,,,,Sarah_Abs_400
+Serial#: ,,,,="23000214"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,Sarah_Abs_400
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows  bi-directional
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,,Imported from instrument EnSpire SerialNumber: 23000214
+
+Plate type:
+Name of the plate type,,,,IMPORTED 1 96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+IMPORTED 1 96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+B,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+C,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+D,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+E,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+F,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+G,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+
+ - - Undefined
+
+Calculations:
+Plate,,,,1
+ Formula index,,,,Calc 1
+ Formula name,,,,Average within well
+ Formula,,,,Average within well where Measurement: C
+
+Auto export parameters:
+Export format,,,,ListC
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,D:\Sarah\2023\Deg_Rec_Final\230215_DegRec_R4_Abs.csv
+Exported data,,,,Well Calc1:Average within well
+
+Operations:
+Plate 1
+  Shake
+    Duration,,,,3 s
+    Speed,,,,60
+    Diameter,,,,3 mm
+    Shake mode,,,,Linear
+    Plate location,,,,Inside
+    First assay/plate repeat affected,,,,1
+    Last assay/plate repeat affected,,,,1
+  Scan measurement
+    Meas,,,,C
+    Tech,,,,Absorbance
+    Number of horizontal points (X),,,,2
+    Number of vertical points (Y),,,,2
+    Distance between points,,,,0.72 mm
+    Scan mode,,,,Rectangle
+
+Measurements:
+Meas ,,,,C
+Exc. filter,,,,N/A
+Excitation wavelength,,,,400 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Reference AD gain,,,,1
+Reference signal,,,,256
+Last edited,,,,9/02/2023 3:01:10 p.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000214
+Nickname,,,,EnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440

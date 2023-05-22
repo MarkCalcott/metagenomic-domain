@@ -1,0 +1,2 @@
+This file contains the raw data for the final three replicates of testing motif recombination sites, including all upstream and downstream sites.
+Motif_recombination_testing_plate.csv contains the plate plan.
