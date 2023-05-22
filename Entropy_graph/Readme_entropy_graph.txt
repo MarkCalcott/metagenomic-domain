@@ -1,0 +1,1 @@
+Run the script EntropyScanGraph.py to calculate the entropy and draw a graph of average information present over 18 bases for each alignment
