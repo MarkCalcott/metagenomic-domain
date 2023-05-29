@@ -1,0 +1,234 @@
+Plate information 
+Plate,Repeat,Barcode,Measurement date,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,
+1,1,="",11/03/2022 11:03:03 a.m.,26.7,26.75,30.5,30.6,
+
+
+No background information available.
+
+
+Well,MeasA:Result,
+A01,7737,
+A02,4830,
+A03,4416,
+A04,10791,
+A05,6305,
+A06,4957,
+A07,6222,
+A08,6602,
+A09,6221,
+A10,7585,
+A11,7874,
+A12,6604,
+B01,4646,
+B02,6298,
+B03,6100,
+B04,21642,
+B05,6951,
+B06,21334,
+B07,6429,
+B08,7481,
+B09,6271,
+B10,6828,
+B11,6613,
+B12,6109,
+C01,5872,
+C02,64806,
+C03,8449,
+C04,4230,
+C05,5736,
+C06,5882,
+C07,11618,
+C08,4307,
+C09,4275,
+C10,3424,
+C11,5143,
+C12,5421,
+D01,12561,
+D02,9375,
+D03,6814,
+D04,7788,
+D05,6537,
+D06,6993,
+D07,17049,
+D08,5577,
+D09,5633,
+D10,11148,
+D11,4795,
+D12,10272,
+E01,4727,
+E02,16257,
+E03,7609,
+E04,32522,
+E05,8688,
+E06,11150,
+E07,4675,
+E08,5389,
+E09,7005,
+E10,5025,
+E11,6218,
+E12,4663,
+F01,5543,
+F02,8535,
+F03,6154,
+F04,8025,
+F05,4915,
+F06,8675,
+F07,6524,
+F08,26262,
+F09,2174,
+F10,10504,
+F11,8105,
+F12,16391,
+G01,5571,
+G02,4981,
+G03,5151,
+G04,5787,
+G05,5728,
+G06,9051,
+G07,8422,
+G08,6226,
+G09,4589,
+G10,5320,
+G11,14156,
+G12,7451,
+H01,5151,
+H02,6524,
+H03,27284,
+H04,10981,
+H05,8577,
+H06,6021,
+H07,4539,
+H08,6827,
+H09,5817,
+H10,6552,
+H11,6022,
+H12,4519,
+
+Basic assay information 
+Assay ID: ,,,,1834
+Assay Started: ,,,,11/03/2022 11:02:28 a.m.
+Assay Finished: ,,,,11/03/2022 11:03:15 a.m.
+Assay Exported: ,,,,11/03/2022 11:03:54 a.m.
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100160
+Protocol Name: ,,,,Mark_Pyo_colony
+Serial#: ,,,,="23000214"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,Mark_Pyo_colony
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows  bi-directional
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+B,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+C,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+D,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+E,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+F,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+G,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+
+ - - Undefined
+
+Calculations:
+No calculations.
+
+Auto export parameters:
+Export format,,,,ListC
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,D:\mark\2022_PAO1_colony_screen\Day2\CA-RX2-1.csv
+Exported data,,,,Well MeasA:Result
+
+Operations:
+Plate 1
+  Measurement
+    Meas,,,,A
+    Tech,,,,Fluorescence
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,400 nm
+Emission wavelength,,,,440 nm
+Measurement height,,,,9.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,1534646
+Last edited,,,,2/03/2022 2:21:00 p.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000214
+Nickname,,,,EnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440
