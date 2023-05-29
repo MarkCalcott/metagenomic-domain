@@ -1,0 +1,558 @@
+Plate information 
+Plate,Repeat,Barcode,Measurement date,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,
+1,1,="",31/03/2022 12:10:15 p.m.,27.15,27.15,30.6,30.7,
+
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,Meas C,0,3445,40,00:00:00.000,De=1st Ex=Btm Em=N/A,
+
+
+
+Well,MeasA:Result,Calc1:Average within well,
+A01,15850,0.096000,
+A01,,,
+A01,,,
+A01,,,
+A02,110593,0.27550,
+A02,,,
+A02,,,
+A02,,,
+A03,80144,0.15550,
+A03,,,
+A03,,,
+A03,,,
+A04,79287,0.16375,
+A04,,,
+A04,,,
+A04,,,
+A05,77312,0.14850,
+A05,,,
+A05,,,
+A05,,,
+A06,66432,0.13350,
+A06,,,
+A06,,,
+A06,,,
+A07,48946,0.12975,
+A07,,,
+A07,,,
+A07,,,
+A08,42109,0.11975,
+A08,,,
+A08,,,
+A08,,,
+A09,63729,0.14625,
+A09,,,
+A09,,,
+A09,,,
+A10,20280,0.092500,
+A10,,,
+A10,,,
+A10,,,
+A11,103095,0.18600,
+A11,,,
+A11,,,
+A11,,,
+A12,148850,0.31250,
+A12,,,
+A12,,,
+A12,,,
+B01,47432,0.11025,
+B01,,,
+B01,,,
+B01,,,
+B02,182027,0.44550,
+B02,,,
+B02,,,
+B02,,,
+B03,96229,0.17025,
+B03,,,
+B03,,,
+B03,,,
+B04,61623,0.11650,
+B04,,,
+B04,,,
+B04,,,
+B05,66617,0.12550,
+B05,,,
+B05,,,
+B05,,,
+B06,9668,0.082250,
+B06,,,
+B06,,,
+B06,,,
+B07,131871,0.25525,
+B07,,,
+B07,,,
+B07,,,
+B08,16096,0.082750,
+B08,,,
+B08,,,
+B08,,,
+B09,53443,0.11175,
+B09,,,
+B09,,,
+B09,,,
+B10,77004,0.13625,
+B10,,,
+B10,,,
+B10,,,
+B11,12026,0.078250,
+B11,,,
+B11,,,
+B11,,,
+B12,12313,0.080500,
+B12,,,
+B12,,,
+B12,,,
+C01,160949,0.34775,
+C01,,,
+C01,,,
+C01,,,
+C02,108872,0.19700,
+C02,,,
+C02,,,
+C02,,,
+C03,146857,0.30625,
+C03,,,
+C03,,,
+C03,,,
+C04,10727,0.085250,
+C04,,,
+C04,,,
+C04,,,
+C05,16907,0.076500,
+C05,,,
+C05,,,
+C05,,,
+C06,131183,0.25125,
+C06,,,
+C06,,,
+C06,,,
+C07,118628,0.21275,
+C07,,,
+C07,,,
+C07,,,
+C08,170993,0.41975,
+C08,,,
+C08,,,
+C08,,,
+C09,137536,0.28350,
+C09,,,
+C09,,,
+C09,,,
+C10,74673,0.13500,
+C10,,,
+C10,,,
+C10,,,
+C11,98545,0.17700,
+C11,,,
+C11,,,
+C11,,,
+C12,83575,0.14700,
+C12,,,
+C12,,,
+C12,,,
+D01,156070,0.32700,
+D01,,,
+D01,,,
+D01,,,
+D02,157654,0.33450,
+D02,,,
+D02,,,
+D02,,,
+D03,43422,0.10550,
+D03,,,
+D03,,,
+D03,,,
+D04,17951,0.094000,
+D04,,,
+D04,,,
+D04,,,
+D05,21638,0.095500,
+D05,,,
+D05,,,
+D05,,,
+D06,187686,0.49500,
+D06,,,
+D06,,,
+D06,,,
+D07,209648,0.67025,
+D07,,,
+D07,,,
+D07,,,
+D08,183054,0.48050,
+D08,,,
+D08,,,
+D08,,,
+D09,58566,0.12275,
+D09,,,
+D09,,,
+D09,,,
+D10,19883,0.089000,
+D10,,,
+D10,,,
+D10,,,
+D11,18112,0.089500,
+D11,,,
+D11,,,
+D11,,,
+D12,160453,0.37250,
+D12,,,
+D12,,,
+D12,,,
+E01,193264,0.52925,
+E01,,,
+E01,,,
+E01,,,
+E02,162802,0.36900,
+E02,,,
+E02,,,
+E02,,,
+E03,144209,0.30125,
+E03,,,
+E03,,,
+E03,,,
+E04,157053,0.35300,
+E04,,,
+E04,,,
+E04,,,
+E05,136020,0.28150,
+E05,,,
+E05,,,
+E05,,,
+E06,139810,0.30225,
+E06,,,
+E06,,,
+E06,,,
+E07,216991,0.79000,
+E07,,,
+E07,,,
+E07,,,
+E08,50644,0.11000,
+E08,,,
+E08,,,
+E08,,,
+E09,15965,0.089250,
+E09,,,
+E09,,,
+E09,,,
+E10,185452,0.48750,
+E10,,,
+E10,,,
+E10,,,
+E11,124654,0.24950,
+E11,,,
+E11,,,
+E11,,,
+E12,69251,0.14075,
+E12,,,
+E12,,,
+E12,,,
+F01,74298,0.13250,
+F01,,,
+F01,,,
+F01,,,
+F02,142485,0.28875,
+F02,,,
+F02,,,
+F02,,,
+F03,116905,0.21350,
+F03,,,
+F03,,,
+F03,,,
+F04,141557,0.29275,
+F04,,,
+F04,,,
+F04,,,
+F05,158137,0.35850,
+F05,,,
+F05,,,
+F05,,,
+F06,152121,0.32000,
+F06,,,
+F06,,,
+F06,,,
+F07,146412,0.31750,
+F07,,,
+F07,,,
+F07,,,
+F08,131466,0.26100,
+F08,,,
+F08,,,
+F08,,,
+F09,115334,0.21725,
+F09,,,
+F09,,,
+F09,,,
+F10,146177,0.31750,
+F10,,,
+F10,,,
+F10,,,
+F11,92422,0.16250,
+F11,,,
+F11,,,
+F11,,,
+F12,151387,0.33100,
+F12,,,
+F12,,,
+F12,,,
+G01,146832,0.28975,
+G01,,,
+G01,,,
+G01,,,
+G02,90862,0.16450,
+G02,,,
+G02,,,
+G02,,,
+G03,13624,0.091250,
+G03,,,
+G03,,,
+G03,,,
+G04,100769,0.18825,
+G04,,,
+G04,,,
+G04,,,
+G05,101346,0.19000,
+G05,,,
+G05,,,
+G05,,,
+G06,33315,0.11550,
+G06,,,
+G06,,,
+G06,,,
+G07,154725,0.36175,
+G07,,,
+G07,,,
+G07,,,
+G08,157753,0.36150,
+G08,,,
+G08,,,
+G08,,,
+G09,142896,0.29675,
+G09,,,
+G09,,,
+G09,,,
+G10,150530,0.33775,
+G10,,,
+G10,,,
+G10,,,
+G11,123581,0.24075,
+G11,,,
+G11,,,
+G11,,,
+G12,128255,0.26275,
+G12,,,
+G12,,,
+G12,,,
+H01,141767,0.29550,
+H01,,,
+H01,,,
+H01,,,
+H02,19614,0.091000,
+H02,,,
+H02,,,
+H02,,,
+H03,14648,0.084500,
+H03,,,
+H03,,,
+H03,,,
+H04,28324,0.096750,
+H04,,,
+H04,,,
+H04,,,
+H05,136010,0.27500,
+H05,,,
+H05,,,
+H05,,,
+H06,146582,0.32350,
+H06,,,
+H06,,,
+H06,,,
+H07,51184,0.11100,
+H07,,,
+H07,,,
+H07,,,
+H08,233961,0.93025,
+H08,,,
+H08,,,
+H08,,,
+H09,15337,0.090000,
+H09,,,
+H09,,,
+H09,,,
+H10,50980,0.14975,
+H10,,,
+H10,,,
+H10,,,
+H11,169547,0.55225,
+H11,,,
+H11,,,
+H11,,,
+H12,170921,0.53025,
+H12,,,
+H12,,,
+H12,,,
+
+Basic assay information 
+Assay ID: ,,,,1990
+Assay Started: ,,,,31/03/2022 12:08:02 p.m.
+Assay Finished: ,,,,31/03/2022 12:10:26 p.m.
+Assay Exported: ,,,,31/03/2022 12:11:01 p.m.
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100161
+Protocol Name: ,,,,Mark_Pyo_AbsEm
+Serial#: ,,,,="23000214"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,Mark_Pyo_AbsEm
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows  bi-directional
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+B,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+C,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+D,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+E,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+F,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+G,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+
+ - - Undefined
+
+Calculations:
+Plate,,,,1
+ Formula index,,,,Calc 1
+ Formula name,,,,Average within well
+ Formula,,,,Average within well where Measurement: C
+
+Auto export parameters:
+Export format,,,,ListC
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,D:\mark\2022_AbsEM\Day5\D4_P2_R1.csv
+Exported data,,,,Well MeasA:Result Calc1:Average within well
+
+Operations:
+Plate 1
+  Shake
+    Duration,,,,3 s
+    Speed,,,,60
+    Diameter,,,,3 mm
+    Shake mode,,,,Linear
+    Plate location,,,,Inside
+    First assay/plate repeat affected,,,,1
+    Last assay/plate repeat affected,,,,1
+  Measurement
+    Meas,,,,A
+    Tech,,,,Fluorescence
+  Scan measurement
+    Meas,,,,C
+    Tech,,,,Absorbance
+    Number of horizontal points (X),,,,2
+    Number of vertical points (Y),,,,2
+    Distance between points,,,,0.72 mm
+    Scan mode,,,,Rectangle
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,400 nm
+Emission wavelength,,,,440 nm
+Measurement height,,,,9.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,1525564
+Last edited,,,,16/03/2022 1:06:00 p.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Meas ,,,,C
+Exc. filter,,,,N/A
+Excitation wavelength,,,,400 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Reference AD gain,,,,1
+Reference signal,,,,966
+Last edited,,,,16/03/2022 1:08:31 p.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000214
+Nickname,,,,EnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440
