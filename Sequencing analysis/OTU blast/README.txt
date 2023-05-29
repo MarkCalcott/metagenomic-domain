@@ -1,0 +1,1 @@
+OTU_Blast.csv contains the top blastx hit info (highest e value) with at least phyla classification for the 453 OTU sequences in the 'processed_reverse_sequences_otus.fasta' file within the clustering folder.
